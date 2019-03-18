@@ -1,0 +1,20 @@
+/* .bg-burger {
+  background: rgb(235, 230, 131);
+  background: radial-gradient(
+    circle,
+    rgba(235, 230, 131, 1) 0%,
+    rgba(214, 222, 12, 1) 69%
+  );
+} */
+
+.bg-burger {
+  background: rgb(106, 22, 32);
+  background: linear-gradient(
+    90deg,
+    #fbf1a9,
+    #ff6300,
+    #ff41b4,
+    #ffb700,
+    #fbf1a9
+  );
+}

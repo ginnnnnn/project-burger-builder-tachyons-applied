@@ -1,0 +1,17 @@
+.Dis {
+  cursor: not-allowed;
+}
+
+.Dim {
+  opacity: 0.5;
+  transition: opacity 0.15s ease-in;
+}
+.Dim:hover,
+.Dim:focus {
+  opacity: 1;
+  transition: background-color 0.15s ease-in;
+}
+.Dim:active {
+  opacity: 0.4;
+  transition: opacity 0.15s ease-out;
+}

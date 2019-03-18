@@ -1,0 +1,11 @@
+.TSTF {
+  transition: transform 0.3s ease-out;
+}
+
+.On {
+  transform: translateX(0);
+}
+
+.Off {
+  transform: translateX(-100%);
+}
